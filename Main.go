@@ -80,7 +80,7 @@ func CreateHero(action build)  {
 }
 func main(){
 	CreateHero(func(value *heroBuilder){
-		value.Name("Axe").
+		value.Name("Axea").
 			MainAttribute("Strength").
 			Tank(true).
 			Skills([]string{"Berserker's call","Battle hunger","Counter helix","Culling blade"}).
