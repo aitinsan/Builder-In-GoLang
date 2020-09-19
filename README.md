@@ -1,4 +1,4 @@
-# Builder-In-GoLang
+# Builder-In-GoLang Strategy Design Patterns
 Builder in GoLang to create dota 2 heroes
 
 Aitkozha Insan
