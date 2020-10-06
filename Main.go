@@ -84,7 +84,7 @@ func main(){
 			MainAttribute("Strength").
 			Tank(true).
 			Skills([]string{"Berserker's call","Battle hunger","Counter helix","Culling blade"}).
-			Items([5]string{"Blade mail","Vanguard","Blink dagger","Tranquil boots"})
+			Items([5]string{"DESOLATOR","Devine Rapier","Devine Rapier","Travel boots","Devine Rapier","Devine Rapier"})
 
 	})
 }
